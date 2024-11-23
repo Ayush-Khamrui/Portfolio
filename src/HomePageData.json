@@ -1,0 +1,403 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/my-photo.jpeg",
+    "title": "Ayush <br /> Khamrui",
+    "subTitle": "Hello, I’m",
+    "designation": "Sr. Software Engineer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpeg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Ayush Khamrui",
+    "subtitle": "Senior Software Engineer & GenAI Developer",
+    "text": "I am a Senior Software Engineer with a focus on crafting efficient backend solutions and integrating advanced Generative AI technologies. My work combines technical excellence with a deep understanding of LLMs and AI-driven systems, aimed at optimizing business processes and delivering innovative, scalable solutions.",
+    "details": [
+      {
+        "title": "Phone",
+        "info": "+91 7001477696"
+      },
+      {
+        "title": "Email",
+        "info": "khamruiasok@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Hospital Road, Barakar, West Bengal - 713324"
+      },
+      {
+        "title": "Languages",
+        "info": "Python, JavaScript"
+      },
+      {
+        "title": "Backend",
+        "info": "Flask, FastAPI, Django"
+      },
+      {
+        "title": "Frontend",
+        "info": "React"
+      },
+      {
+        "title": "Database",
+        "info": "MySQL, Neo4J"
+      },
+      {
+        "title": "Generative AI",
+        "info": "Langchain, AWS Bedrock, Azure OpenAI"
+      },
+      {
+        "title": "Cloud",
+        "info": "AWS, Azure"
+      },
+      {
+        "title": "Certified",
+        "info": "AWS Certified Cloud Practitioner"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Web Development",
+        "text": "Build scalable web applications using Flask, FastAPI, and React with optimized backend solutions and finally hosting them in cloud.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "Craft intuitive, user-centric interfaces adhering to industry standards for seamless user experience and engagement.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "GenAI Chatbot Development",
+        "text": "Develop intelligent chatbots integrating Generative AI, enhancing interactions through React and Python solutions.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "App Development",
+        "text": "Deliver cross-platform apps using React Native, blending functionality with elegant and responsive designs.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Generative AI and Large Language Model (LLM) Consulting",
+        "text": "Implement LLM systems with advanced retrievers, optimization techniques, and scalable architectures.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Generative AI Adoption Strategies",
+        "text": "Drive organizational adoption of Generative AI, optimizing workflows with tools like AWS Bedrock and Azure OpenAI.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in the field of work are mentioned.",
+    "text": "I am a Senior Software Engineer with expertise in backend development, Generative AI, and LLMs. At Capgemini, I have led teams to design advanced AI systems using AWS Bedrock, Azure OpenAI, LangChain, etc. Skilled in Python, Flask, FastAPI, and React. I build scalable APIs and optimize LLM performance using prompt engineering and retrieval mechanisms. I have integrated tools like Neo4j, ChromaDB, and Redis to enhance application efficiency. I have driven Generative AI adoption through pilot projects and innovative tools like CodeWhisperer. Recognized as a \"Star\" employee, I excel in delivering impactful, innovative solutions in Agile environments.",
+    "skills": [
+      {
+        "title": "Python",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "JavaScript",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "React",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Flask",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "FastAPI",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Generative AI",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Azure",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "AWS",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Gynere.com",
+        "subTitle": "Website for a Startup",
+        "link": "https://www.gynere.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "AskmeA2Z",
+        "subTitle": "Affiliate Marketing Website",
+        "link": "https://www.askmea2z.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Menu91",
+        "subTitle": "Menu Management System",
+        "link": "https://www.menu91.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Msg Bix",
+        "subTitle": "Bulk SMS Service Provider",
+        "link": "https://msgbix.com/",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "GenFlow",
+        "subTitle": "LLM Powered Chatbot",
+        "link": "https://github.com/Ayush-Khamrui/GenFlow-AI-Powered-Document-Intelligence",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "HealthGPT",
+        "subTitle": "Chatbot for Health",
+        "link": "https://github.com/Ayush-Khamrui/HealthGPT",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Ayush Khamrui",
+        "date": "04-10-2024",
+        "title": "Exploring Canvas by OpenAI: A Game-Changer for Collaborative Writing and Coding",
+        "href": "https://medium.com/@ayushkhamrui/exploring-canvas-by-openai-a-game-changer-for-collaborative-writing-and-coding-b9443393f61a"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Ayush Khamrui",
+        "date": "10-10-2024",
+        "title": "GANs Unleashed: Creating with Generative Adversarial Networks",
+        "href": "https://medium.com/@ayushkhamrui/gans-unleashed-creating-with-generative-adversarial-networks-a5eda1004183"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Ayush Khamrui",
+        "date": "02-10-2024",
+        "title": "Unveiling the Magic of Transformer Architectures",
+        "href": "https://medium.com/genai-simplified/unveiling-the-magic-of-transformer-architectures-044a594aad4b"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Spriha Srivastava",
+        "designation": "Senior Consultant",
+        "text": "Ayush is an exceptional full stack developer with a unique flair for Gen AI development. I had the privilege of managing him directly, witnessing his outstanding ability to navigate complex projects with ease. Ayush seamlessly integrates cutting-edge technologies into his work, delivering innovative solutions that exceed expectations. He brings a rare combination of technical expertise, creativity, and dedication to every task, making him an invaluable asset to any team. I highly recommend Ayush for his exceptional skills and unwavering commitment to excellence."
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Areef Sheik",
+        "designation": "Consultant",
+        "text": "Ayush is an exceptional researcher with a deep understanding of GenAI tools and technologies, particularly in the realm of LLMs. I had the privilege of collaborating closely with him, where his profound expertise significantly advanced our GenAI adoption efforts. He combines a rare depth of technical knowledge, consistently delivering solutions that address complex challenges. His ability to demystify advanced concepts and drive meaningful implementation makes him an invaluable asset to any organization. I highly recommend Ayush for his skills, vision, and dedication."
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Arman Khan",
+        "designation": "Consultant",
+        "text": "Ayush is an exceptional professional with expertise spanning full-stack development, GenAI Technologies. I had the privilege of working with him directly, witnessing his ability to handle complex projects with ease. His proficiency in React and delivering seamless user experiences complements his understanding of GenAI and his contributions towards its adoption. Ayush combines technical expertise & creativity delivering innovative solutions that exceed expectations. He is an invaluable asset to any team, and I highly recommend him for his remarkable skills."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "duration": "Sept 2022 - Present",
+        "subTitle": "Capgemini, Bangalore",
+        "text": "Led a team in architecting advanced LLM systems using AWS Bedrock, Azure, and LangChain, optimizing AI performance through retrieval techniques and prompt engineering. I developed scalable backend solutions with Python, Flask, and FastAPI, integrated tools like Neo4j and Redis to enhance application efficiency, and spearheaded frontend development for GenAI chatbots using React, focusing on seamless user interaction and intuitive design."
+      },
+      {
+        "title": "Software Engineer Intern",
+        "duration": "Mar 2022 - Aug 2022",
+        "subTitle": "Capgemini, Mumbai",
+        "text": "I built an \"On Demand Car Wash\" platform, developing a dynamic React frontend and integrating it with a robust backend to enable seamless booking and service management."
+      },
+      {
+        "title": "Software Development Engineer Intern",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Highradius, Hyderabad",
+        "text": "I designed an AI-Enabled Fintech B2B Cloud Application, implementing an intuitive React frontend and integrating AI-driven analytics with a secure, scalable backend to optimize business workflows."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Technology in Electronics and Communication",
+        "duration": "2018 - 2022",
+        "subTitle": "Maulana Abul Kalam Azad University of Technology, West Bengal",
+        "text": "Published 3 research papers (1 in Chemistry, 2 in IoT) and a patent on a biometric-controlled car ignition system (Patent No: 202031031645 A)."
+      },
+      {
+        "title": "CBSE (+2) [ PCMB ]",
+        "duration": "2018",
+        "subTitle": "Green Point Academy, Kulti",
+        "text": ""
+      },
+      {
+        "title": "ICSE (10th)",
+        "duration": "2016",
+        "subTitle": "De Nobili School, Maithon",
+        "text": ""
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visit my social profile and get connected",
+    "text": "Want to know more about me or just for networking. Need any professional advice or just want to say hello."
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/ayushkhamrui/"
+    },
+    {
+      "icon": "facebook",
+      "title": "Facebook",
+      "link": "https://www.facebook.com/AyushKhamrui/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "https://x.com/ayush_khamrui16"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ayush-khamrui/"
+    }
+  ]
+}
