@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container">
         <div className="st-copyright-wrap text-center">
           <div className="st-copyright-text">
-            © {currentYear}. Designed by Ayush Khamrui. All right reserved.
+            © 2021. Designed by Ayush Khamrui. All right reserved.
           </div>
         </div>
       </div>
