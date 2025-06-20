@@ -4,7 +4,7 @@
     "imgLink": "/images/section/my-photo.jpeg",
     "title": "Ayush <br /> Khamrui",
     "subTitle": "Hello, I’m",
-    "designation": "Sr. Software Engineer"
+    "designation": "Sr. Software Engineer [AI/ML]"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpeg",
@@ -31,7 +31,7 @@
       },
       {
         "title": "Backend",
-        "info": "Flask, FastAPI, Django"
+        "info": "FastAPI, Flask"
       },
       {
         "title": "Frontend",
@@ -39,15 +39,15 @@
       },
       {
         "title": "Database",
-        "info": "MySQL, Neo4J"
+        "info": "MySQL, BigQuery, ChromaDB"
       },
       {
         "title": "Generative AI",
-        "info": "Langchain, AWS Bedrock, Azure OpenAI"
+        "info": "Google VertexAI,  AWS Bedrock, Azure OpenAI"
       },
       {
         "title": "Cloud",
-        "info": "AWS, Azure"
+        "info": "GCP, AWS, Azure"
       },
       {
         "title": "Certified",
@@ -109,7 +109,7 @@
   },
   "skillData": {
     "title": "All the skills that I have in the field of work are mentioned.",
-    "text": "I am a Senior Software Engineer with expertise in backend development, Generative AI, and LLMs. At Capgemini, I have led teams to design advanced AI systems using AWS Bedrock, Azure OpenAI, LangChain, etc. Skilled in Python, Flask, FastAPI, and React. I build scalable APIs and optimize LLM performance using prompt engineering and retrieval mechanisms. I have integrated tools like Neo4j, ChromaDB, and Redis to enhance application efficiency. I have driven Generative AI adoption through pilot projects and innovative tools like CodeWhisperer. Recognized as a \"Star\" employee, I excel in delivering impactful, innovative solutions in Agile environments.",
+    "text": "I am a Senior Software Engineer with expertise in backend development, Generative AI, and LLMs. At UHG, I have led teams to design advanced AI systems using Google VertexAI, AWS Bedrock, Azure OpenAI, LangChain, etc. Skilled in Python, Flask, FastAPI, and React. I build scalable APIs and optimize LLM performance using prompt engineering and retrieval mechanisms. I have integrated tools like Neo4j, ChromaDB, and Redis to enhance application efficiency. I have driven Generative AI adoption through pilot projects and innovative tools like CodeWhisperer. Recognized as a \"Star\" employee of Capgemini 2024, I excel in delivering impactful, innovative solutions in Agile environments.",
     "skills": [
       {
         "title": "Python",
@@ -149,6 +149,13 @@
       {
         "title": "Generative AI",
         "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "GCP",
+        "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -332,16 +339,16 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior Software Engineer",
+        "title": "Senior Software Engineer (AI/ML)",
         "duration": "Sept 2022 - Present",
-        "subTitle": "Capgemini, Bangalore",
-        "text": "Led a team in architecting advanced LLM systems using AWS Bedrock, Azure, and LangChain, optimizing AI performance through retrieval techniques and prompt engineering. I developed scalable backend solutions with Python, Flask, and FastAPI, integrated tools like Neo4j and Redis to enhance application efficiency, and spearheaded frontend development for GenAI chatbots using React, focusing on seamless user interaction and intuitive design."
+        "subTitle": "UnitedHealth Group, Hyderabad",
+        "text": "Led the design and deployment of cutting-edge Agentic AI systems, including intelligent chatbot frameworks, automated agent evaluation, and scalable microservices. Built a video-to-text summarization tool that converts videos into epics and user stories with 95% accuracy, accelerating product delivery and reducing Business Analyst dependency by 70%."
       },
       {
-        "title": "Software Engineer Intern",
-        "duration": "Mar 2022 - Aug 2022",
-        "subTitle": "Capgemini, Mumbai",
-        "text": "I built an \"On Demand Car Wash\" platform, developing a dynamic React frontend and integrating it with a robust backend to enable seamless booking and service management."
+        "title": "Senior Software Engineer",
+        "duration": "Mar 2022 - Present",
+        "subTitle": "Capgemini, Bangalore",
+        "text": "Led a team in architecting advanced LLM systems using AWS Bedrock, Azure, and LangChain, optimizing AI performance through retrieval techniques and prompt engineering. I developed scalable backend solutions with Python, Flask, and FastAPI, integrated tools like Neo4j and Redis to enhance application efficiency, and spearheaded frontend development for GenAI chatbots using React, focusing on seamless user interaction and intuitive design."
       },
       {
         "title": "Software Development Engineer Intern",
@@ -352,6 +359,11 @@
     ],
     "educationTitle": "Education",
     "education": [
+      {
+        "title": "Post Graduate Diploma in Business Administration",
+        "duration": "2025 - 2026",
+        "subTitle": "Symbiosis Centre for Distance Learning, Pune"
+      },
       {
         "title": "Bachelor of Technology in Electronics and Communication",
         "duration": "2018 - 2022",
